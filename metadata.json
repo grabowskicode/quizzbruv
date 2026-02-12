@@ -1,0 +1,5 @@
+{
+  "name": "Quizz Bruv",
+  "description": "Kvízek kinyerése és lejátszása PDF-ekből vagy képekből azonnali, kötegelt betöltéssel nagy dokumentumokhoz (50+ kérdés).",
+  "requestFramePermissions": []
+}
